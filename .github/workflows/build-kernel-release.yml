@@ -24,7 +24,7 @@ jobs:
         - build-kernel-gs201
     env:
       REPO_OWNER: dephreak
-      REPO_NAME: Sultan_SukiSU_SUSFS
+      REPO_NAME: Sultan_Sukisu_SUSFS
       GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       RELEASE_NAME: "Sultan Kernels With SukiSU & SUSFS"
       RELEASE_NOTES: |
